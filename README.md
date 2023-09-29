@@ -1,5 +1,20 @@
 # Latihanweb1
 
+## 1.Membuat Paragraf
+![Screenshot (278)](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/55411931-9657-4897-afbd-78cea01f5a65)
+
+## 2.Menambah Judul
+![Screenshot (279)](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/943a961e-ca90-495f-b617-99aba8f46232)
+
+## 3.Memformat teks
+
+
+## 4.Menyisipkan Gambar
+
+
+## 5. Menambahkan Hyperlink
+
+
 ## Jawab Pertanyaan Berikut
 ### 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 ```
