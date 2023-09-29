@@ -11,11 +11,13 @@
 
 ## 4.Menyisipkan Gambar
 ![ss4](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/9018e4c5-9f9c-4354-b1a3-9284b0ca940f)
+
 ![ss4a](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/56de970b-841b-42f5-a88f-e78b09506fe3)
 
 ## 5. Menambahkan Hyperlink
 ![ss5](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/7827826b-2851-44e2-8f46-c322888b7961)
-![Uploading ss5a.png…]()
+
+![ss5a](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/c012fd87-63be-4a7f-85ec-9c7ebd807f80)
 
 
 ## Jawab Pertanyaan Berikut
