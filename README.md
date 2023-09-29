@@ -1,6 +1,5 @@
 # Latihanweb1
 
-
 ## Jawab Pertanyaan Berikut
 ### 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 ``
