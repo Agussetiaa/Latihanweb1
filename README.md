@@ -1,18 +1,21 @@
 # Latihanweb1
 
 ## 1.Membuat Paragraf
-![Screenshot (278)](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/55411931-9657-4897-afbd-78cea01f5a65)
+![ss1](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/2f8bd369-d0c2-4732-84a4-b6ec0f777b5f)
 
 ## 2.Menambah Judul
-![Screenshot (279)](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/943a961e-ca90-495f-b617-99aba8f46232)
+![ss2](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/4a3266e5-f029-40c3-b6ac-9b5739ac88f6)
 
 ## 3.Memformat teks
-
+![ss3](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/0daca610-1810-4c24-b24b-bb95a04fd511)
 
 ## 4.Menyisipkan Gambar
-
+![ss4](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/9018e4c5-9f9c-4354-b1a3-9284b0ca940f)
+![ss4a](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/56de970b-841b-42f5-a88f-e78b09506fe3)
 
 ## 5. Menambahkan Hyperlink
+![ss5](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/7827826b-2851-44e2-8f46-c322888b7961)
+![Uploading ss5a.png…]()
 
 
 ## Jawab Pertanyaan Berikut
