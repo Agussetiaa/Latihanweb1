@@ -1,21 +1,63 @@
-# Latihanweb1
+# Web1 praktikum
 
 ## 1.Membuat Paragraf
+```
+<!-- Ini adalah paragraf pertama -->
+<p>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
+Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
+adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar
+HTML.</p>
+<!-- Ini adalah paragraf kedua -->
+<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
+tag dasar html.</p>
+```
+
 ![ss1](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/2f8bd369-d0c2-4732-84a4-b6ec0f777b5f)
 
 ## 2.Menambah Judul
+```
+<!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+```
+
 ![ss2](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/4a3266e5-f029-40c3-b6ac-9b5739ac88f6)
 
 ## 3.Memformat teks
+```
+ <p align=”center”>Kami sedang belajar <mark>HTML dasar,</mark> pada matakuliah <b>Pemrograman Web</b>
+        di Prodi <I>Teknik Informatika </I> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama
+        yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+        tag-tag dasar HTML.</p>
+```
+
 ![ss3](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/0daca610-1810-4c24-b24b-bb95a04fd511)
 
 ## 4.Menyisipkan Gambar
+```
+<h3>Menambahkan Gambar</h3>
+    <img src="logo upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
+```
+
 ![ss4](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/9018e4c5-9f9c-4354-b1a3-9284b0ca940f)
+
 
 ![ss4a](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/56de970b-841b-42f5-a88f-e78b09506fe3)
 
 ## 5. Menambahkan Hyperlink
+```
+ <nav>
+        <a href="lab1_tag_dasar.html">Dasar HTML</a>
+        <a href="lab1_halaman2.html">Halaman 2</a>
+        <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+        </nav>
+    <hr>
+```
+
 ![ss5](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/7827826b-2851-44e2-8f46-c322888b7961)
+
 
 ![ss5a](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/c012fd87-63be-4a7f-85ec-9c7ebd807f80)
 
