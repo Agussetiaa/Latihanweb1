@@ -14,8 +14,9 @@ HTML.
 
 ## Modul Praktikum Pemrograman Web
 ![s22](https://github.com/Agussetiaa/Praktikumweb1/assets/115542822/6edb53b8-715e-477a-84f9-3c8373fe7f83)
-
 Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
+
+
 ![s2](https://github.com/Agussetiaa/Praktikumweb1/assets/115542822/e53dae58-2099-4793-81ed-dc3e03649a83)
 
 
