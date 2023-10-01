@@ -58,7 +58,7 @@ tag dasar html.</p>
 
 ![ss5](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/7827826b-2851-44e2-8f46-c322888b7961)
 
-## Halaman2
+## Halaman 2
 
 ![ss5a](https://github.com/Agussetiaa/Latihanweb1/assets/115542822/c012fd87-63be-4a7f-85ec-9c7ebd807f80)
 
