@@ -1,4 +1,25 @@
 # Web1 praktikum
+Instruksi Praktikum
+1. Persiapkan text editor misalnya VSCode.
+2. Buat file baru dengan nama lab1_tag_dasar.html
+3. Buat struktur dasar dari dokumen HTML.
+4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
+5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
+
+## Langkah-langkah Praktikum
+Persiapan membuka VSCode dan Browser.
+![s1](https://github.com/Agussetiaa/Praktikumweb1/assets/115542822/0750032c-40c7-44ca-89a4-70b3ed11802f)
+Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
+HTML.
+
+## Modul Praktikum Pemrograman Web
+![s22](https://github.com/Agussetiaa/Praktikumweb1/assets/115542822/6edb53b8-715e-477a-84f9-3c8373fe7f83)
+
+Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
+![s2](https://github.com/Agussetiaa/Praktikumweb1/assets/115542822/e53dae58-2099-4793-81ed-dc3e03649a83)
+
+
+
 
 ## 1.Membuat Paragraf
 ```
